@@ -1,0 +1,11 @@
+# Generated ESP-IDF build files
+ESP32_Firmware/build/
+ESP32_Firmware/build.stale-path-backup/
+ESP32_Firmware/sdkconfig.old
+
+# Local editor settings
+**/.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
